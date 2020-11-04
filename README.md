@@ -1,5 +1,5 @@
 # Tempalate Name: bootstrap-startup-NuxtJS
-### Designer: Yubli Audy Warokka
+### Front End Developer: Yubli Audy Warokka
 
 ## Build Setup
 
