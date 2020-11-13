@@ -11319,6 +11319,9 @@ nav .container {
 }
 
 .hero {
+  background: url(~assets/images/header.svg) center no-repeat;
+  background-position: center;
+  background-size: cover;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;

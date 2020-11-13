@@ -4,9 +4,6 @@
     <Navbar />
     <!-- End Navbar -->
     <div class="hero">
-      <video autoplay muted loop>
-        <source src="~/assets/images/video-2.mp4" type="video/mp4" />
-      </video>
       <div class="hero-overlay"></div>
     </div>
 
